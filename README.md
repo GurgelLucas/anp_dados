@@ -14,8 +14,12 @@ Fonte: https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/pre
 
 * Realizar um pipeline de ETL e organizar os dados em camadas do Datalake.
 * Explorar diferenças de preço nos combustíveis por métricas de:
- - Tempo
- - Localidade (Estado e Municipio)
- - Empresa Fornecedora 
- - Posto de Revenda
+    * Tempo
+    * Localidade (Estado e Municipio)
+    * Empresa Fornecedora 
+    * Posto de Revenda
 
+## Etapas do Projeto
+
+1. Coletar dados do Portal gov.br aonde estão os conjuntos de dados de Série Histórica de Preços de Combustíveis
+2. 
