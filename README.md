@@ -13,7 +13,7 @@ Fonte: https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/pre
 ## Tecnologias usadas
 
 
-<img align="left" src="https://community.cloud.databricks.com/media/databricks_community_edition.2359b37e.png" height=50 width=160 hspace="20"/>
+<img src="https://community.cloud.databricks.com/media/databricks_community_edition.2359b37e.png" height=50 width=160 hspace="20" align="left"/>
 
 <img src="https://databricks.com/wp-content/uploads/2018/12/PySpark-1024x164.png" height=50 width=260 />
 
