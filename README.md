@@ -12,7 +12,7 @@ Fonte: https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/pre
 
 ## Tecnologias usadas
 
-<img src="https://venturebeat.com/wp-content/uploads/2021/02/databricks.png?fit=400%2C189&strip=all" height=50 width=120 hspace="20"/>
+<img align="left" src="https://venturebeat.com/wp-content/uploads/2021/02/databricks.png?fit=400%2C189&strip=all" height=50 width=120 hspace="20"/>
 <img src="https://databricks.com/wp-content/uploads/2018/12/PySpark-1024x164.png" height=50 width=260 />
 
 # Etapas do Projeto
