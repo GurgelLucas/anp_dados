@@ -17,14 +17,12 @@ Fonte: https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/pre
 <img src="https://databricks.com/wp-content/uploads/2018/12/PySpark-1024x164.png" height=50 width=260 />
 
 # Objetivo deste Projeto
-
-## Engenharia de Dados
 * Extrair dados de fontes externa distintas
 
 * Carregar em um Datalake formado no sistema de arquivos Databricks (DBFS)
 
 * Aplicar Transformações para geração de datasets limpos e organizados para finalidade de analisar estes dados
-
+## Engenharia de Dados
 ### Extração
 
 1. Coletar dados do portal gov.br aonde estão os conjuntos de dados de [Série Histórica de Preços de Combustíveis](https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/serie-historica-de-precos-de-combustiveis)
@@ -53,8 +51,7 @@ Em andamento
     * Estado
     * Cidade
     * Município
-<br />
-<br />
+
 * Onde estão os preços mais baixos e mais altos?
 
 * Quantos postos são pesquisados por estado e cidade?
